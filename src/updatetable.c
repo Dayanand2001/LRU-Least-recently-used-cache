@@ -1,4 +1,4 @@
-/* title        : get.c
+/* title        : updatetable.c
  * date         : 04/12/2025
  * author       : Dayanand
  * description  : This function moves a recently accessed or updated key to the front (MRU position) of the LRU cache.

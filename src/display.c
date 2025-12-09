@@ -1,4 +1,4 @@
-/* title        : get.c
+/* title        : display.c
  * date         : 04/12/2025
  * author       : Dayanand
  * description  : This function prints all the entries currently stored in the LRU cache.

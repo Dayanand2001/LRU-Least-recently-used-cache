@@ -1,4 +1,4 @@
-/* title        : get.c
+/* title        : put.c
  * date         : 04/12/2025
  * author       : Dayanand
  * description  : This function inserts a new key–value pair into the LRU cache or updates an existing one.
